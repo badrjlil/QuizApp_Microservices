@@ -3,3 +3,5 @@ v18.16.0
 
 npm --version
 9.5.1
+
+emailing app: mailhog
